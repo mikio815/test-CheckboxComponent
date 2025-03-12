@@ -1,4 +1,4 @@
-import "../index.css"; // これがないと Tailwind のスタイルが適用されない
+import "../index.css"; 
 
 
 
